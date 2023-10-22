@@ -1,0 +1,275 @@
+#firstpage{
+    height: 100vh;
+    border: 1px solid black;}
+#min{
+    /* border: 3px solid blue; */
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;}
+#res{
+    /* border: 2px solid red; */
+    height: 60px;
+    width: 800px;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;}
+.max{
+    /* border:1px solid yellow ; */
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    height: 60px;
+    width: 400px;
+    color: white;}
+#nan{
+    /* border: 2px solid red; */
+    height: 60px;
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;}
+.max:hover{
+    border-bottom: 5px solid blue;}
+#logo:hover{
+    border-bottom: none;}
+#firstpage{
+    background-image: url("./image/BMWaru.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: black; */}
+#tum{
+    color: white;}
+#a{
+    color: white;
+    font-size: 24px;
+    position: relative;
+    top: 133px;
+    right: -103px;}
+#b{
+    color: white;
+    font-size: 200px;
+    position: relative;
+    top: 100px;
+    right: -97px;}
+#c{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: 83px;
+    right: -121px;}
+#ravi{
+    top: 98px;
+    right: -150px;
+    font-size: 20px;
+    position: relative;
+    color: white;}
+#d{
+    height: 50px;
+    width: 220px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;}
+#e{
+    height: 50px;
+    width:220px;
+    color:white;
+    font-size:  20px; 
+    background-color: black;
+    border: 1px solid white;}
+#secondpage{
+    height: 70vh;}
+#g{
+    color: black;
+    top: 19px;
+    right: -584px;
+    position: relative;
+    font-size: .875rem;
+    font-weight: 700;
+    letter-spacing: var(--letter-spacing-eyebrow1);
+    line-height: 1.25rem;
+    text-transform: uppercase;}
+#h{
+    top: 25px;
+    right: -522px;
+    position: relative;
+    color: black;
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 2.5rem;
+    text-transform: uppercase;}
+#i{
+    top: 264px;
+    right: -190px;
+    position: relative;
+    color: black;
+    font-size: 20px;}
+#j{
+    top: 90px;
+    right: -190px;
+    position: relative;
+    font-size: 96px;}
+#k{
+    height: 50px;
+    width: 143px;
+    top: 166px;
+    right: -189px;
+    position: relative;
+    font-size: 17px;
+    font-weight: 700;
+    background-color: white;}
+#l{
+    top: 80px;
+    right: -496px;
+    position: relative;
+    color: #262626;
+    font-size: 20px;}
+#m{
+    height: 101px;
+    width: 48px;
+    right: -520px;
+    top: -94px;
+    position: relative;
+    z-index: 1;
+    font-size: 96px;}
+#n{
+    height: 55px;
+    width: 175px;
+    position: relative;
+    top: -12px;
+    right: -481px;
+    background-color: white;
+    color: black;
+    font-size: 17px;
+    font-weight: 700px;}
+#o{
+    top: -260px;
+    right: -580px;
+    height: 150px;
+    width: 130px;
+    position: relative;
+    font-size: 40px;
+    z-index: 2;}
+#p{
+    top: -400px;
+    right: -912px;
+    position: relative;
+    font-size: 91px;}
+#q{
+    top:-354px;
+    right: -899px;
+    position: relative;
+    font-size: 20px;}
+#r{
+    height: 50px;
+    width: 143px;
+    background-color: white;
+    top: -340px;
+    right: -894px;
+    position: relative;
+    color: black;
+    font-weight: 700;
+    font: size 17px; }
+#thirdpage{
+    height: 70vh;
+     background-image: url("./image/BMWar.avif") ;
+    background-size: cover;}
+#t{
+    color: white;
+    top: 172px;
+    right: -120px;
+    font-size: 62px;
+    position: relative;}
+#u{
+    color:white;
+    top: 170px;
+    right: -124px;
+    position: relative;
+    font-size: 62px;}
+#v{
+    height: 50px;
+    width: 208px;
+    position: relative;
+    color:black;
+    top: 216px;
+    font-size: 18px;
+    right: -120px;}
+    #fourthpage{
+        height: 70vh; }
+#w{
+    top: 82px;
+    right: -606px;
+    font-size: 21px;
+    position: relative;}
+    #x{
+        top: 100px;
+        right: -600px;
+        font-size: 65px;
+        position: relative;}
+        #y{
+            top: 108px;
+            right: -602px;
+            position: relative;
+            font-size: 20px; }
+            #z{ top: 134px;
+                right: -599px;
+                height: 47px;
+                width: 143px;
+            position: relative;
+        font-weight: 800; }
+        #fifthpage{
+            height: 60vh;
+            border: 1px solid black;
+            display:flex;
+            justify-content: space-evenly;
+            background-color: lightsteelblue; 
+         }
+            #aa{
+            font-size: 16px;
+        top: 39px;
+    right: -145px;
+    position: relative;}
+    #bb{
+        font-size: 15px;
+        font-weight: bold;
+        top: 53px;
+        right: -8px;
+        position: relative;}
+       #dd{
+           top: 50px;
+           right: -55px;
+           position: relative;
+           font-size: 16px;
+           font-weight: bold; } 
+        #cc{
+            top: 37px;
+            right: -220px;
+            position: relative;
+            font-size: 16px; } 
+            #ff{
+                top: 50px;
+                right: -45px;
+                position: relative;
+                font-size: 16px;
+                font-weight: bold; }
+                #ee{
+                    top: 37px;
+                    right: -220px;
+                    position: relative;
+                    font-size: 16px; }
+                    #hh{
+                        top: 50px;
+                        right: -17px;
+                        position: relative;
+                        font-size: 16px;
+                        font-weight: bold; }  
+                        #gg{
+                            top: 37px;
+                            right: -130px;
+                            position: relative;
+                            font-size: 16px;
+                        }    
+
+
+
+    
